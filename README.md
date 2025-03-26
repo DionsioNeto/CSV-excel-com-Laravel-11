@@ -17,7 +17,7 @@
 - php artisan migrate // Rodar as migrações
 - (Não é de todo necessário neste projecto) npm install // Instalar dependências do Node.js (se houver frontend)
 - (Não é de todo necessário neste projecto) npm run dev  // Compilar arquivos frontend para desenvolvimento
-- php artisan migrate
+- php artisan migrate // para rodar o servidor
 - php artisan serve // Rodar o servidor de desenvolvimento
 
 ## Esta aplicação web Conta com as seguintes tecnologias:
